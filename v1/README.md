@@ -4,3 +4,4 @@ The following is what is expected to be achieve in this :
 <li> Comparing the RFID values. - Done </li>
 <li> Opening up an Image on the basis of the value of the RFID read (open a file using python) - Done</li>
 </ul>
+Added the file to read RFID inputs.
